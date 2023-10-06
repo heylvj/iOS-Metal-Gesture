@@ -1,8 +1,10 @@
 # iOS-Metal-Gesture
 
-<video src="display.mov" width="320" height="240" controls>
-  Video not supported
-</video>
+
+
+https://github.com/heylvj/iOS-Metal-Gesture/assets/71706854/44669bc1-39ff-447e-ae2e-0f1b69790c8f
+
+
 
 a simple usage of mtkView + gestures
 
